@@ -1,1 +1,3 @@
-# newthing
+ 学校|所在学校|URL
+ --|:--:|--:
+中山大学南方学院|文学与传媒学院|http://wcy.nfu.edu.cn/a/xueyuangaikuang/zhuanyeshezhi/wangluoyuxinmeitix/
